@@ -7,3 +7,5 @@ Barom is a profanity detection program.
 -python
 
 -vs code
+
+-node.js
